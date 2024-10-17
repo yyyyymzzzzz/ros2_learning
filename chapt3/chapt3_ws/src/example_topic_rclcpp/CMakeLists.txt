@@ -31,3 +31,11 @@ install(TARGETS
   topic_publisher_01
   DESTINATION lib/${PROJECT_NAME}
 )
+
+add_executable(topic_subscriber_01 src/topic_subscriber_01.cpp)
+ament_target_dependencies(topic_subscriber_01 rclcpp std_msgs)
+
+install(TARGETS
+  topic_subscriber_01
+  DESTINATION lib/${PROJECT_NAME}
+)

@@ -153,7 +153,7 @@ topic_publisher_01: /opt/ros/humble/lib/librosidl_typesupport_c.so
 topic_publisher_01: /opt/ros/humble/lib/librcpputils.so
 topic_publisher_01: /opt/ros/humble/lib/librosidl_runtime_c.so
 topic_publisher_01: /opt/ros/humble/lib/librcutils.so
-topic_publisher_01: /usr/lib/aarch64-linux-gnu/libpython3.10.so
+topic_publisher_01: /usr/lib/x86_64-linux-gnu/libpython3.10.so
 topic_publisher_01: CMakeFiles/topic_publisher_01.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/ymz/Codes/ros2_learning/chapt3/chapt3_ws/build/example_topic_rclcpp/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable topic_publisher_01"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/topic_publisher_01.dir/link.txt --verbose=$(VERBOSE)
