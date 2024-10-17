@@ -1,0 +1,30 @@
+[0.007s] Invoking command in '/home/ymz/Codes/ros2_learning/chapt3/chapt3_ws/build/example_topic_rclcpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ymz/Codes/ros2_learning/chapt3/chapt3_ws/build/example_topic_rclcpp -- -j2 -l2
+[0.050s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.133s] -- Found rclcpp: 16.0.10 (/opt/ros/humble/share/rclcpp/cmake)
+[0.149s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.150s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.153s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.158s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.164s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.187s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.188s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.252s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.279s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.322s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[0.322s] -- Configured cppcheck include dirs: 
+[0.322s] -- Configured cppcheck exclude dirs and/or files: 
+[0.323s] -- Added test 'lint_cmake' to check CMake code style
+[0.323s] -- Added test 'uncrustify' to check C / C++ code style
+[0.323s] -- Configured uncrustify additional arguments: 
+[0.324s] [31mCMake Error at /opt/ros/humble/share/ament_cmake_target_dependencies/cmake/ament_target_dependencies.cmake:77 (message):
+[0.324s]   ament_target_dependencies() the passed package name 'rclcpp,' was not found
+[0.324s]   before
+[0.324s] Call Stack (most recent call first):
+[0.324s]   CMakeLists.txt:28 (ament_target_dependencies)
+[0.324s] 
+[0.324s] [0m
+[0.324s] -- Added test 'xmllint' to check XML markup files
+[0.324s] -- Configuring incomplete, errors occurred!
+[0.324s] See also "/home/ymz/Codes/ros2_learning/chapt3/chapt3_ws/build/example_topic_rclcpp/CMakeFiles/CMakeOutput.log".
+[0.335s] gmake: *** [Makefile:267: cmake_check_build_system] Error 1
+[0.337s] Invoked command in '/home/ymz/Codes/ros2_learning/chapt3/chapt3_ws/build/example_topic_rclcpp' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ymz/Codes/ros2_learning/chapt3/chapt3_ws/build/example_topic_rclcpp -- -j2 -l2

@@ -1,0 +1,24 @@
+[0.318s] Invoking command in '/home/ymz/Codes/ros2_learning/chapt2/colcon_test_ws/src/examples/rclpy/services/minimal_client': PYTHONPATH=/home/ymz/Codes/ros2_learning/chapt2/colcon_test_ws/build/examples_rclpy_minimal_client/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ymz/Codes/ros2_learning/chapt2/colcon_test_ws/install/examples_rclpy_minimal_client/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../../../build/examples_rclpy_minimal_client build --build-base /home/ymz/Codes/ros2_learning/chapt2/colcon_test_ws/build/examples_rclpy_minimal_client/build install --record /home/ymz/Codes/ros2_learning/chapt2/colcon_test_ws/build/examples_rclpy_minimal_client/install.log --single-version-externally-managed install_data
+[0.421s] running egg_info
+[0.421s] writing ../../../../../build/examples_rclpy_minimal_client/examples_rclpy_minimal_client.egg-info/PKG-INFO
+[0.422s] writing dependency_links to ../../../../../build/examples_rclpy_minimal_client/examples_rclpy_minimal_client.egg-info/dependency_links.txt
+[0.422s] writing entry points to ../../../../../build/examples_rclpy_minimal_client/examples_rclpy_minimal_client.egg-info/entry_points.txt
+[0.423s] writing requirements to ../../../../../build/examples_rclpy_minimal_client/examples_rclpy_minimal_client.egg-info/requires.txt
+[0.423s] writing top-level names to ../../../../../build/examples_rclpy_minimal_client/examples_rclpy_minimal_client.egg-info/top_level.txt
+[0.424s] reading manifest file '../../../../../build/examples_rclpy_minimal_client/examples_rclpy_minimal_client.egg-info/SOURCES.txt'
+[0.425s] writing manifest file '../../../../../build/examples_rclpy_minimal_client/examples_rclpy_minimal_client.egg-info/SOURCES.txt'
+[0.426s] running build
+[0.426s] running build_py
+[0.426s] running install
+[0.427s] running install_lib
+[0.428s] running install_data
+[0.428s] running install_egg_info
+[0.430s] removing '/home/ymz/Codes/ros2_learning/chapt2/colcon_test_ws/install/examples_rclpy_minimal_client/lib/python3.10/site-packages/examples_rclpy_minimal_client-0.15.2-py3.10.egg-info' (and everything under it)
+[0.431s] Copying ../../../../../build/examples_rclpy_minimal_client/examples_rclpy_minimal_client.egg-info to /home/ymz/Codes/ros2_learning/chapt2/colcon_test_ws/install/examples_rclpy_minimal_client/lib/python3.10/site-packages/examples_rclpy_minimal_client-0.15.2-py3.10.egg-info
+[0.436s] running install_scripts
+[0.450s] Installing client script to /home/ymz/Codes/ros2_learning/chapt2/colcon_test_ws/install/examples_rclpy_minimal_client/lib/examples_rclpy_minimal_client
+[0.450s] Installing client_async script to /home/ymz/Codes/ros2_learning/chapt2/colcon_test_ws/install/examples_rclpy_minimal_client/lib/examples_rclpy_minimal_client
+[0.451s] Installing client_async_callback script to /home/ymz/Codes/ros2_learning/chapt2/colcon_test_ws/install/examples_rclpy_minimal_client/lib/examples_rclpy_minimal_client
+[0.451s] Installing client_async_member_function script to /home/ymz/Codes/ros2_learning/chapt2/colcon_test_ws/install/examples_rclpy_minimal_client/lib/examples_rclpy_minimal_client
+[0.452s] writing list of installed files to '/home/ymz/Codes/ros2_learning/chapt2/colcon_test_ws/build/examples_rclpy_minimal_client/install.log'
+[0.466s] Invoked command in '/home/ymz/Codes/ros2_learning/chapt2/colcon_test_ws/src/examples/rclpy/services/minimal_client' returned '0': PYTHONPATH=/home/ymz/Codes/ros2_learning/chapt2/colcon_test_ws/build/examples_rclpy_minimal_client/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ymz/Codes/ros2_learning/chapt2/colcon_test_ws/install/examples_rclpy_minimal_client/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../../../build/examples_rclpy_minimal_client build --build-base /home/ymz/Codes/ros2_learning/chapt2/colcon_test_ws/build/examples_rclpy_minimal_client/build install --record /home/ymz/Codes/ros2_learning/chapt2/colcon_test_ws/build/examples_rclpy_minimal_client/install.log --single-version-externally-managed install_data
