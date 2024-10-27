@@ -1,0 +1,29 @@
+[0.018s] Invoking command in '/home/ymz/Codes/ros2_learning/chapt3/chapt3_ws/build/example_topic_rclcpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ymz/Codes/ros2_learning/chapt3/chapt3_ws/build/example_topic_rclcpp -- -j4 -l4
+[0.110s] [35m[1mConsolidate compiler generated dependencies of target topic_subscriber_01[0m
+[0.110s] [35m[1mConsolidate compiler generated dependencies of target topic_publisher_01[0m
+[0.151s] [ 25%] [32mBuilding CXX object CMakeFiles/topic_subscriber_01.dir/src/topic_subscriber_01.cpp.o[0m
+[0.154s] [ 75%] Built target topic_publisher_01
+[7.625s] [100%] [32m[1mLinking CXX executable topic_subscriber_01[0m
+[8.187s] [100%] Built target topic_subscriber_01
+[8.204s] Invoked command in '/home/ymz/Codes/ros2_learning/chapt3/chapt3_ws/build/example_topic_rclcpp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ymz/Codes/ros2_learning/chapt3/chapt3_ws/build/example_topic_rclcpp -- -j4 -l4
+[8.299s] Invoking command in '/home/ymz/Codes/ros2_learning/chapt3/chapt3_ws/build/example_topic_rclcpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/ymz/Codes/ros2_learning/chapt3/chapt3_ws/build/example_topic_rclcpp
+[8.312s] -- Install configuration: ""
+[8.313s] -- Up-to-date: /home/ymz/Codes/ros2_learning/chapt3/chapt3_ws/install/example_topic_rclcpp/share/ament_index/resource_index/package_run_dependencies/example_topic_rclcpp
+[8.313s] -- Up-to-date: /home/ymz/Codes/ros2_learning/chapt3/chapt3_ws/install/example_topic_rclcpp/share/ament_index/resource_index/parent_prefix_path/example_topic_rclcpp
+[8.313s] -- Up-to-date: /home/ymz/Codes/ros2_learning/chapt3/chapt3_ws/install/example_topic_rclcpp/share/example_topic_rclcpp/environment/ament_prefix_path.sh
+[8.314s] -- Up-to-date: /home/ymz/Codes/ros2_learning/chapt3/chapt3_ws/install/example_topic_rclcpp/share/example_topic_rclcpp/environment/ament_prefix_path.dsv
+[8.314s] -- Up-to-date: /home/ymz/Codes/ros2_learning/chapt3/chapt3_ws/install/example_topic_rclcpp/share/example_topic_rclcpp/environment/path.sh
+[8.314s] -- Up-to-date: /home/ymz/Codes/ros2_learning/chapt3/chapt3_ws/install/example_topic_rclcpp/share/example_topic_rclcpp/environment/path.dsv
+[8.314s] -- Up-to-date: /home/ymz/Codes/ros2_learning/chapt3/chapt3_ws/install/example_topic_rclcpp/share/example_topic_rclcpp/local_setup.bash
+[8.314s] -- Up-to-date: /home/ymz/Codes/ros2_learning/chapt3/chapt3_ws/install/example_topic_rclcpp/share/example_topic_rclcpp/local_setup.sh
+[8.314s] -- Up-to-date: /home/ymz/Codes/ros2_learning/chapt3/chapt3_ws/install/example_topic_rclcpp/share/example_topic_rclcpp/local_setup.zsh
+[8.314s] -- Up-to-date: /home/ymz/Codes/ros2_learning/chapt3/chapt3_ws/install/example_topic_rclcpp/share/example_topic_rclcpp/local_setup.dsv
+[8.314s] -- Installing: /home/ymz/Codes/ros2_learning/chapt3/chapt3_ws/install/example_topic_rclcpp/share/example_topic_rclcpp/package.dsv
+[8.316s] -- Up-to-date: /home/ymz/Codes/ros2_learning/chapt3/chapt3_ws/install/example_topic_rclcpp/share/ament_index/resource_index/packages/example_topic_rclcpp
+[8.316s] -- Up-to-date: /home/ymz/Codes/ros2_learning/chapt3/chapt3_ws/install/example_topic_rclcpp/share/example_topic_rclcpp/cmake/example_topic_rclcppConfig.cmake
+[8.316s] -- Up-to-date: /home/ymz/Codes/ros2_learning/chapt3/chapt3_ws/install/example_topic_rclcpp/share/example_topic_rclcpp/cmake/example_topic_rclcppConfig-version.cmake
+[8.316s] -- Up-to-date: /home/ymz/Codes/ros2_learning/chapt3/chapt3_ws/install/example_topic_rclcpp/share/example_topic_rclcpp/package.xml
+[8.316s] -- Up-to-date: /home/ymz/Codes/ros2_learning/chapt3/chapt3_ws/install/example_topic_rclcpp/lib/example_topic_rclcpp/topic_publisher_01
+[8.317s] -- Installing: /home/ymz/Codes/ros2_learning/chapt3/chapt3_ws/install/example_topic_rclcpp/lib/example_topic_rclcpp/topic_subscriber_01
+[8.329s] -- Set runtime path of "/home/ymz/Codes/ros2_learning/chapt3/chapt3_ws/install/example_topic_rclcpp/lib/example_topic_rclcpp/topic_subscriber_01" to ""
+[8.333s] Invoked command in '/home/ymz/Codes/ros2_learning/chapt3/chapt3_ws/build/example_topic_rclcpp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/ymz/Codes/ros2_learning/chapt3/chapt3_ws/build/example_topic_rclcpp

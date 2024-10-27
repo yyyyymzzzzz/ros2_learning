@@ -1,0 +1,4 @@
+[0.000000] (-) TimerEvent: {}
+[0.001009] (-) JobUnselected: {'identifier': 'example_service_rclcpp'}
+[0.001228] (-) JobUnselected: {'identifier': 'example_topic_rclcpp'}
+[0.001263] (-) EventReactorShutdown: {}
