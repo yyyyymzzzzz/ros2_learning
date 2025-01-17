@@ -1,1 +1,0 @@
-/home/ymz/Codes/ros2_learning/chapt2/colcon_test_ws/build/examples_rclcpp_wait_set/ament_cmake_environment_hooks/local_setup.sh

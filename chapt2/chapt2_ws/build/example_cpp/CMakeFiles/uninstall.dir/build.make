@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/ymz/Codes/ros2_learning/chapt2/chapt2_ws/src/example_cpp
+CMAKE_SOURCE_DIR = /home/ymz/repo/ros2_learning/chapt2/chapt2_ws/src/example_cpp
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/ymz/Codes/ros2_learning/chapt2/chapt2_ws/build/example_cpp
+CMAKE_BINARY_DIR = /home/ymz/repo/ros2_learning/chapt2/chapt2_ws/build/example_cpp
 
 # Utility rule file for uninstall.
 
@@ -78,6 +78,6 @@ CMakeFiles/uninstall.dir/clean:
 .PHONY : CMakeFiles/uninstall.dir/clean
 
 CMakeFiles/uninstall.dir/depend:
-	cd /home/ymz/Codes/ros2_learning/chapt2/chapt2_ws/build/example_cpp && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/ymz/Codes/ros2_learning/chapt2/chapt2_ws/src/example_cpp /home/ymz/Codes/ros2_learning/chapt2/chapt2_ws/src/example_cpp /home/ymz/Codes/ros2_learning/chapt2/chapt2_ws/build/example_cpp /home/ymz/Codes/ros2_learning/chapt2/chapt2_ws/build/example_cpp /home/ymz/Codes/ros2_learning/chapt2/chapt2_ws/build/example_cpp/CMakeFiles/uninstall.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/ymz/repo/ros2_learning/chapt2/chapt2_ws/build/example_cpp && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/ymz/repo/ros2_learning/chapt2/chapt2_ws/src/example_cpp /home/ymz/repo/ros2_learning/chapt2/chapt2_ws/src/example_cpp /home/ymz/repo/ros2_learning/chapt2/chapt2_ws/build/example_cpp /home/ymz/repo/ros2_learning/chapt2/chapt2_ws/build/example_cpp /home/ymz/repo/ros2_learning/chapt2/chapt2_ws/build/example_cpp/CMakeFiles/uninstall.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/uninstall.dir/depend
 
